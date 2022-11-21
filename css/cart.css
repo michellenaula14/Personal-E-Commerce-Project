@@ -1,0 +1,39 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  .price {
+    color: darkmagenta;
+    font-size: 20px;
+  }
+  
+  .card button {
+    border: none;
+    padding: 10px;
+    background-color: plum;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+  }
+  
+  .card button:hover {
+    opacity: 0.9;
+  }
+
+  .navbar {
+    background-color: lightpink;
+}
+
+body {
+    background-image: url("https://img.rawpixel.com/private/static/images/website/2022-05/p-448-pai-683-job570-2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=5e117d5f5a5e888842eab1e12e3934ed");
+}
+
+.main {
+    color: blueviolet;
+    font-family: fantasy;
+}

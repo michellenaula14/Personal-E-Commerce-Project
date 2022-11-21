@@ -1,0 +1,13 @@
+.hero {
+    background-image:url(https://img.freepik.com/premium-vector/beautiful-feminine-woman-face-hair-logo-beauty-salon-spa-skin-care-branding_117739-2314.jpg?w=2000);
+    background-size: 200px;
+}
+
+.navbar {
+    background-color: lightpink;
+}
+
+.container {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
